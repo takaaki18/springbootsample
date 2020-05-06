@@ -1,4 +1,4 @@
-# SpringBootSample
+# スプリングブートの練習サンプル
 
 ## java11.02
 
